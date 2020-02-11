@@ -13,7 +13,6 @@
 		56CD4B0523ED99DD003A2E28 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56CD4B0423ED99DD003A2E28 /* Assets.xcassets */; };
 		56CD4B0823ED99DD003A2E28 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56CD4B0723ED99DD003A2E28 /* Preview Assets.xcassets */; };
 		56CD4B0B23ED99DD003A2E28 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56CD4B0923ED99DD003A2E28 /* LaunchScreen.storyboard */; };
-		56CD4B1323ED9A36003A2E28 /* Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56CD4B1223ED9A36003A2E28 /* Button.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		56CD4B0723ED99DD003A2E28 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		56CD4B0A23ED99DD003A2E28 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		56CD4B0C23ED99DD003A2E28 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		56CD4B1223ED9A36003A2E28 /* Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Button.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +59,6 @@
 				56CD4AFE23ED99DB003A2E28 /* AppDelegate.swift */,
 				56CD4B0023ED99DB003A2E28 /* SceneDelegate.swift */,
 				56CD4B0223ED99DB003A2E28 /* ContentView.swift */,
-				56CD4B1223ED9A36003A2E28 /* Button.swift */,
 				56CD4B0423ED99DD003A2E28 /* Assets.xcassets */,
 				56CD4B0923ED99DD003A2E28 /* LaunchScreen.storyboard */,
 				56CD4B0C23ED99DD003A2E28 /* Info.plist */,
@@ -152,7 +149,6 @@
 				56CD4AFF23ED99DB003A2E28 /* AppDelegate.swift in Sources */,
 				56CD4B0123ED99DB003A2E28 /* SceneDelegate.swift in Sources */,
 				56CD4B0323ED99DB003A2E28 /* ContentView.swift in Sources */,
-				56CD4B1323ED9A36003A2E28 /* Button.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
